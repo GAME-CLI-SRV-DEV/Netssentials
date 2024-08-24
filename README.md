@@ -21,7 +21,7 @@ Sponge 버전: Nucleus v3 -> NucleusPLUS
 ```
 Netssentials-Spigot-1.0A-1.20.6-R0.1-SNAPSHOT-atdt01410-Ess2.21.0-smack4.4.4-openfire4.6.4-all (1.20.6-R0.1-SNAPSHOT에 대응하는 버킷 플러그인 버전)
 Netssentials-Sponge-1.0A-12.0.0-SNAPSHOT-atdt01410-Nuc3.5.0-smack4.4.4-openfire4.6.4-all (12.0.0-SNAPSHOT에 대응하는 스펀지 플러그인 버전)
-Netssentials-Neoforge-1.0A-20.6.00-SNAPSHOT-atdt01410-FTB3.5.0-smack4.4.4-openfire4.6.4-all (12.0.0-SNAPSHOT에 대응하는 네오포지 모드 버전)
+Netssentials-Neoforge-1.0A-20.6.00-SNAPSHOT-atdt01410-FTB2004.2101.1.0-smack4.4.4-openfire4.6.4-all (12.0.0-SNAPSHOT에 대응하는 네오포지 모드 버전)
 ```
 
 다음은 버킷에서 가동했을 때 로그입니다.
@@ -37,22 +37,29 @@ Netssentials-Neoforge-1.0A-20.6.00-SNAPSHOT-atdt01410-FTB3.5.0-smack4.4.4-openfi
 ```
 콘솔에서는 PC통신을 사용할 수 없어, 게임에 접속하셔서 사용하셔야 합니다.
 ```
-Welcome to Netssentials,
-Please Enter The Following Sentence "/service Nets"
-/service Nets
-Netssentials 버전 3.5, Spigot 1.20.6
 -----------------------------------------------------------------
     게시판               메일               채팅방
 게시글이 없습니다.  새 메일이 없습니다.  /방 명령으로 만들어주십시오.
 -----------------------------------------------------------------
 추천 접속:
-dangunland.iptime.org:5001
-badamelong.iptime.org:1000
-bbs.olddos.kr:9000
+dangunland.iptime.org:5001 [게임/단군의땅/접속]
+badamelong.iptime.org:1000 [PC통신/BadamelongBBS/접속]
+bbs.olddos.kr:9000 [PC통신/도스박물관BBS/접속]
+-----------------------------------------------------------------
+공지사항
+공지사항이 없습니다.
+-----------------------------------------------------------------
+--------<이 서비스들을 사용하려면 아이디가 필요합니다.>--------------
+         /방, /메일, /게시판, /접속, /게임, /PC통신
+-----------------------------------------------------------------
+/가입으로 Minecraft: Java Edition과 BBS계정을 연동하세요.
+/가입
+-----------------------------------------------------------------
+
 ```
 
 # Netssentials
-the alternative plugin for chollian that uses EssentialsX, Bssentials, Sunlight to Provide Internet. Who Needs Chollian when you have Netssentials?
+the alternative plugin for chollian that uses EssentialsX and Nucleus to Provide Internet. Who Needs Chollian when you have Netssentials?
 
 # Difference Between [Chollian](https://chol.com) and Netssentials(netssentials.dev.game)
 [Chollian](https://chol.com) is a BBS that cannot emulated on Minecraft Server Without Universal forge Mods.
